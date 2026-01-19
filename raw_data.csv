@@ -1,0 +1,12 @@
+Customer_ID,Name,Age,Gender,Email,Signup_Date,Country,Purchase_Amount
+C001, John Doe ,29,Male,john.doe@email.com,2023-01-15,USA,120.50
+C002,Jane Smith, ,Female,janesmith@email.com,15/02/2023,United States,85
+C003,Bob Lee,45,M,bob.lee@email,2023/03/01,US,3000
+C004,Alice Brown,thirty,Female,alice.brown@email.com,2023-03-10,Canada,
+C005,Chris Green,22,Male,,03-25-2023,canada,45.75
+C006,Emma White,27,Female,emma.white@email.com,2023-04-01,UK,60
+C006,Emma White,27,Female,emma.white@email.com,2023-04-01,UK,60
+C007,Tom Black,150,Male,tom.black@email.com,2023-04-15,U.K.,99999
+C008,Sara Blue,31,Female,sara.blue@email.com,2023-05-05,India,70.00
+C009, ,40,Female,unknown@email.com,2023-05-20,INDIA,55
+C010,Mike Yellow,35,Male,mike.yellow@email.com,2023/06/01,USA,abc
